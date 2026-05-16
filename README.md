@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
