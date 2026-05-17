@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0069-sqrtx) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
