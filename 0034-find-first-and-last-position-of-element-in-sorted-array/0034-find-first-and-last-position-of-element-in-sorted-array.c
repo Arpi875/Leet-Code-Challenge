@@ -5,9 +5,9 @@ int binarySearch(int* nums, int numsSize, int target, int findFirst) {
         if (nums[mid] == target) {
             result = mid;
             if (findFirst) {
-                right = mid - 1;  // keep searching left
+                right = mid - 1;  
             } else {
-                left = mid + 1;   // keep searching right
+                left = mid + 1;   
             }
         } else if (nums[mid] < target) {
             left = mid + 1;
@@ -21,7 +21,7 @@ int binarySearch(int* nums, int numsSize, int target, int findFirst) {
 int* searchRange(int* nums, int numsSize, int target, int* returnSize) {
     *returnSize = 2;
     int* result = (int*)malloc(2 * sizeof(int));
-    result[0] = binarySearch(nums, numsSize, target, 1);  // first occurrence
-    result[1] = binarySearch(nums, numsSize, target, 0);  // last occurrence
+    result[0] = binarySearch(nums, numsSize, target, 1);  
+    result[1] = binarySearch(nums, numsSize, target, 0);  
     return result;
 }
