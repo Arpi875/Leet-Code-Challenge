@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0189-rotate-array) |
@@ -66,6 +67,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Arpi875/Leet-Code-Challenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
